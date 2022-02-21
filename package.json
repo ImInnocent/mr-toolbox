@@ -1,0 +1,19 @@
+{
+  "name": "mr-toolbox",
+  "version": "1.0.0",
+  "description": "simple toolbox for web developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImInnocent/mr-toolbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImInnocent/mr-toolbox/issues"
+  },
+  "homepage": "https://github.com/ImInnocent/mr-toolbox#readme"
+}
